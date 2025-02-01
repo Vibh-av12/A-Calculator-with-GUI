@@ -27,4 +27,6 @@ Project Structure:
 
 Calculator with GUI.py: The main Python script containing the calculator code.
 
+Calculator(no GUI): A backup with no GUI
+
 README.md: Documentation for the project.
